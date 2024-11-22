@@ -1,1 +1,1 @@
-# Multi-layer-stacking
+# Multi-layer-stacking includes a two base layer and one meta layer based stacking model. In the forst base model the model includes Naive Bayes and Random Forest. In the second base layer Logistic regression is used. Multi Layer Perception is used as the meta layer.
